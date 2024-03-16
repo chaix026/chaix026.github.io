@@ -1,6 +1,6 @@
 title: Yuan Chai
 logo: https://y-chai.github.io/images/bio-photo-yc2.jpg
 description: Yuan's GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
