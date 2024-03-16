@@ -1,2 +1,2 @@
-# chaix026.github.io
-Personal github site
+# Personal site
+Personal site text
