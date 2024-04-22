@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Yuan Chai"
   avatar : "/assets/images/y-chai-apec.jpg"
-  bio    : "Welcome to my personal site"
+  bio    : "Appled Economist / Data Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -88,8 +88,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
