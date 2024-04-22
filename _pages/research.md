@@ -1,8 +1,9 @@
 ---
-layout: posts
+layout: collection
 permalink: /research/
 title: "Research"
 author_profile: true
+entries_layout: grid
 # header:
 #   image: "/images/fort point.png"
 ---
