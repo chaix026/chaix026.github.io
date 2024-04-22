@@ -1,7 +1,7 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "DS Portfolio"
+  - title: "Data Science Portfolio"
     url: /portfolio/
   - title: "Research Projects"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
