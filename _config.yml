@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yuan Chai's personal site
 twitter_username: username
 github_username: chaix026
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 search: false
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Yuan Chai"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/y-chai-apec.jpg"
   bio    : "Welcome to my personal site"
   links:
     - label: "Website"
