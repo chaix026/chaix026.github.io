@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Casual Inference
-[A/B Testing using Python](https://github.com/chaix026/A-B-Testing)  
+[A/B Testing](https://github.com/chaix026/A-B-Testing)  
 
 
 ## Machine Learning

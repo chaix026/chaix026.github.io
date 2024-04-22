@@ -18,7 +18,7 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 ## Publications:  
 [Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
 
-## Computer skills:  
+## Data Science skills:  
 R; Python; MATLAB; STATA; QGIS; ArcGIS; CLIMEX; DSSAT
 
 ### Certifications:
