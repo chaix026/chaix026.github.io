@@ -6,7 +6,7 @@ author_profile: true
 # header:
 #   image: "/images/fort point.png"
 
-feature_row_1:
+feature_row:
   - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
     alt: "A/B Testing"
     title: "A/B Testing"
@@ -23,7 +23,7 @@ feature_row_1:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 
-feature_row_2:
+feature_row2:
   - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
     alt: "A/B Testing"
     title: "A/B Testing"
@@ -33,7 +33,7 @@ feature_row_2:
 
 
 # Casual Inference
-{% include feature_row_1 %}
+{% include feature_row %}
 
 
 ## Machine Learning
