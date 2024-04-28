@@ -5,9 +5,26 @@ title: "Data Science Portfolio"
 author_profile: true
 # header:
 #   image: "/images/fort point.png"
+
+feature_row:
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/bio-photo.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
 
-
+{% include feature_row %}
 
 ## Casual Inference
 [A/B Testing](https://github.com/chaix026/A-B-Testing)  
@@ -19,5 +36,5 @@ author_profile: true
 
 
 ## Spatial Data Analysis in R
-An introduction to Spatial Data Analysis in R[<a href="#" class="btn btn--primary">Link Text</a>](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r)  
-[Spatial Regression in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=33173032&courseTitle=accounting-for-location-in-agriculture-spatial-regression-in-r#courseSectionDetails_34755727)
+An introduction to Spatial Data Analysis in R   
+Spatial Regression in R
