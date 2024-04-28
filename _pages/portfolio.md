@@ -7,7 +7,7 @@ author_profile: true
 #   image: "/images/fort point.png"
 
 feature_row:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
