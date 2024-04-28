@@ -10,7 +10,7 @@ feature_row_1:
   - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
     alt: "A/B Testing"
     title: "A/B Testing"
-    excerpt: "Identify changes that lead to improvements [GitHub](https://github.com/chaix026/A-B-Testing){: .btn}"
+    excerpt: "Identify changes that lead to improvements [GitHub](https://github.com/chaix026/A-B-Testing)"
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -27,7 +27,7 @@ feature_row_2:
   - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
     alt: "A/B Testing"
     title: "A/B Testing"
-    excerpt: "Identify changes that lead to improvements [GitHub](https://github.com/chaix026/A-B-Testing){: .btn}"
+    excerpt: "Identify changes that lead to improvements [GitHub](https://github.com/chaix026/A-B-Testing)"
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
