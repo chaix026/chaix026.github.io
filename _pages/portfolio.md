@@ -14,9 +14,7 @@ feature_row_ab:
     url: "https://github.com/chaix026/A-B-Testing"
     btn_label: "Code"
     btn_class: "btn--success"
-
-
-
+    
 feature_row_cluster:
   - image_path: /assets/images/portfolio/Slide3.JPG
     alt: "Cluster Analysis using Python"
@@ -42,7 +40,7 @@ feature_row_regression:
 
 
 # Machine Learning 
-{% include feature_row id="feature_row_cluster" type="left" %}
+{% include feature_row id="feature_row_cluster" type="left" %}  
 {% include feature_row id="feature_row_regression" type="left" %}
 
 # Spatial Data Analysis in R

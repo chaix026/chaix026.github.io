@@ -7,14 +7,12 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-## Introduction to Data Analysis in R  
-<a href="https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r" class="btn btn--info">Sign up</a>  
+## [Introduction to Data Analysis in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r) 
 Instructor, 2022, 2023, 2024
 GEMS Informatics Center, University of Minnesota  
 *Introductory workshop designed for those who are new to R and are interested in learning the basics of using R for data analysis*
 
-## Spatial Data Analysis in R  
-<a href="https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=33173032&courseTitle=accounting-for-location-in-agriculture-spatial-regression-in-r#courseSectionDetails_34755727" class="btn btn--info">Sign up</a> 
+## [Spatial Data Analysis in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=33173032&courseTitle=accounting-for-location-in-agriculture-spatial-regression-in-r#courseSectionDetails_34755727)  
 Co-Instructor, 2022, 2023, 2024
 GEMS Informatics Center, University of Minnesota  
 *Workshop series on how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting basic geocomputation on vector and raster data.*
