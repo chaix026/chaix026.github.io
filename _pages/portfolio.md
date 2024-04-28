@@ -7,10 +7,13 @@ author_profile: true
 #   image: "/images/fort point.png"
 
 feature_row:
-  - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
+  - image_path: /assets/images/portfolio/Slide1.jpg
     alt: "A/B Testing"
     title: "A/B Testing"
     excerpt: "Identify changes that lead to improvements "
+    url: "https://github.com/chaix026/A-B-Testing"
+    btn_label: "Code"
+    btn_class: "btn--success"
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -24,10 +27,13 @@ feature_row:
 
 
 feature_row2:
-  - image_path: https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg
-    alt: "A/B Testing"
-    title: "A/B Testing"
-    excerpt: "Identify changes that lead to improvements [GitHub](https://github.com/chaix026/A-B-Testing)"
+  - image_path: /assets/images/portfolio/Slide3.jpg
+    alt: "Cluster Analysis using Python"
+    title: "Cluster Analysis using Python"
+    excerpt: "Using machine learning to group similar data points into clusters."
+    url: "https://github.com/chaix026/ML_Cluster-Analysis"
+    btn_label: "Code"
+    btn_class: "btn--success"
 
 ---
 
@@ -39,7 +45,7 @@ feature_row2:
 ## Machine Learning
 [Cluster Analysis using Python](https://github.com/chaix026/ML_Cluster-Analysis)   
 [Regression Analysis using Python](https://github.com/chaix026/ML_Regression)
-
+{% include feature_row2 %}
 
 ## Spatial Data Analysis in R
 An introduction to Spatial Data Analysis in R   
