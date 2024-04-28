@@ -19,5 +19,5 @@ author_profile: true
 
 
 ## Spatial Data Analysis in R
-[An introduction to Spatial Data Analysis in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r)  
+An introduction to Spatial Data Analysis in R[<a href="#" class="btn btn--primary">Link Text</a>](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r)  
 [Spatial Regression in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=33173032&courseTitle=accounting-for-location-in-agriculture-spatial-regression-in-r#courseSectionDetails_34755727)
