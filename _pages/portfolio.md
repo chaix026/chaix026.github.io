@@ -45,7 +45,7 @@ feature_row2:
 ## Machine Learning
 [Cluster Analysis using Python](https://github.com/chaix026/ML_Cluster-Analysis)   
 [Regression Analysis using Python](https://github.com/chaix026/ML_Regression)
-{% include feature_row2 %}
+{% include feature_row id="feature_row2" %}
 
 ## Spatial Data Analysis in R
 An introduction to Spatial Data Analysis in R   
