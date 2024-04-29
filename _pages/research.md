@@ -3,6 +3,7 @@ layout: categories
 permalink: /research/
 title: "Research"
 author_profile: true
+entries_layout: grid
 # header:
 #   image: "/images/fort point.png"
 ---
