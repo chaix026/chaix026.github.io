@@ -9,7 +9,7 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 
 ## Data Science Skills:  
 {: .notice}
-R; Python; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
+R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
 {: .notice}
 
 ### Data Science Certifications:

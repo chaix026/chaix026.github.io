@@ -7,18 +7,20 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-## [Introduction to Data Analysis in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r) 
-Instructor, 2022, 2023, 2024
+## Introduction to Data Analysis in R
+Instructor, 2022, 2023, 2024  
 GEMS Informatics Center, University of Minnesota  
-*Introductory workshop designed for those who are new to R and are interested in learning the basics of using R for data analysis*
+*Introductory workshop designed for those who are new to R and are interested in learning the basics of using R for data analysis*  
+[>> Course Details](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34848297&courseTitle=introduction-to-data-analysis-with-r)
 
-## [Spatial Data Analysis in R](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=33173032&courseTitle=accounting-for-location-in-agriculture-spatial-regression-in-r#courseSectionDetails_34755727)  
-Co-Instructor, 2022, 2023, 2024
+## Spatial Data Analysis in R
+Co-Instructor, 2022, 2023, 2024  
 GEMS Informatics Center, University of Minnesota  
-*Workshop series on how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting basic geocomputation on vector and raster data.*
+*Workshop series on how to work with spatial data in R, starting from importing different spatial datasets and creating simple maps, to conducting basic geocomputation on vector and raster data.*  
+[>> Course Details](https://learning.umn.edu/search/publicCourseSearchDetails.do?method=load&courseId=34753638&courseTitle=accounting-for-location-in-agriculture-an-introduction-to-spatial-data-analysis-in-r)   
 
 ## Big Data Methods in Economics
-Guest Lecturer, Fall 2021
+Guest Lecturer, Fall 2021  
 Department of Applied Economics, University of Minnesota  
 *Guest lecturer on spatial data analysis in R for graduate students in applied economics*
 

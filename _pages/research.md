@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: categories
 permalink: /research/
 title: "Research"
 author_profile: true
