@@ -33,5 +33,5 @@ entries_layout: grid
 <h2 style="color:grey">Research projects</h2>
 
 {% for research in site.research %}
- <span>{{ research.description }}</span>
+ <span>{{ research.title }}</span>
 {% endfor %}
