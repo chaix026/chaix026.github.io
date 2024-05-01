@@ -2,9 +2,9 @@
 layout: single
 title: "Potato Threat Intelligence"
 date: 2023-05-01
-tags: [crop pests, agricultural productivity]
 excerpt: "Potato Pests and Diseases"
 mathjax: "true"
+author_profile: true
 ---
 
 ## Description

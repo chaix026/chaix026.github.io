@@ -2,10 +2,6 @@
 layout: single
 title: "Wheat Multi-Trait Predictions: A Quantitative, Genotype x Environment (GxE) Approach to Supporting Minnesota Wheat Breeding and Farmer Varietal Selections"
 date: 2022-01-01
-tags: [wheat, agriculture, analytics, bio-economic modeling]
-header:
-  image: "/images/4DWheat/cover-wheat-field-banner.jpg"
-  caption: "Photo credit: Pixabay"
 excerpt: "Developing a wheat multi-trait prediction tool to aid with the breeding of wheat varieties for MN farmers"
 mathjax: "true"
 ---

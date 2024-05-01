@@ -2,12 +2,9 @@
 layout: single
 title: "Canada Wheat Data Analytics, Phase II"
 date: 2023-10-01
-tags: [crop diversity, agricultural productivity]
-header:
-  image: "/images/4DWheat/cover-wheat-field-banner.jpg"
-  caption: "Photo credit: Pixabay"
 excerpt: "Engage with 4D Wheat at the University of Saskatchewan"
 mathjax: "true"
+author_profile: true
 ---
 
 ## Description

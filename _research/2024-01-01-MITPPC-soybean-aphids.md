@@ -1,19 +1,9 @@
 ---
 layout: single
 title: "Linking Soybean Aphid Losses to Technology Investment Decisions"
-categories: 
-    - projects
-tags:
-    - crop disease
-    - agricultural risk
-    - invasive species
-    - bio-economic modeling
-header:
-  image: "https://gems.umn.edu/sites/gems.umn.edu/files/2024-03/Aphis_glycines_5268061.jpg"
-  caption: "Soybean Aphids"
 excerpt: "Developing a spatially explicit bio-economic dispersal model to aid with the management of soybean aphids"
 mathjax: "true"
-
+author_profile: true
 ---
 
 ## Description
