@@ -110,3 +110,4 @@ tag_archive:
 
 collections:
   research:
+    output: true
