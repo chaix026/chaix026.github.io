@@ -16,5 +16,5 @@ In this notebook, I demonstrate an A/B testing using Python for an example ad ca
 
 The idea of the dataset is to analyze the groups, find if the ads were successful, how much the company can make from the ads, and if the difference between the groups is statistically significant.
 
-[Code](https://github.com/chaix026/A-B-Testing){: .btn .btn--success}
+[Code](https://github.com/chaix026/A-B-Testing){: .btn .btn--success .btn--large}
 
