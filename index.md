@@ -9,12 +9,11 @@ title: ""
 Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, risk management, food and agricultural production modeling, and R&D impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 {: .notice}
 
-[Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
-
-
 ### Data Science Skills:
 R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
 {: .notice}
+
+[Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
 
 ### Data Science Certifications:
 - The Structured Query Language (SQL) [Coursera Certificate](https://coursera.org/share/1d078f4e6c393c51c3cf54a2ba646565){: .btn .btn--small}
@@ -24,7 +23,7 @@ R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX
 {: .notice}
 
 ### Publications:  
-[Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
+[>> Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
 {: .notice}
 
 ### Education:  
