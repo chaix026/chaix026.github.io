@@ -32,6 +32,11 @@ entries_layout: grid
 
 <h2 style="color:grey">Research projects</h2>
 
-{% for research in site.research %}
- <span>{{ research.title }}</span>
-{% endfor %}
+<ul>
+  {% for research in site.research %}
+    <li>
+      <h2><a href="{{ research.url }}">{{ research.title }}</a></h2>
+      <p>{{ research.excerpt | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
