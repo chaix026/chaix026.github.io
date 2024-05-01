@@ -9,7 +9,7 @@ excerpt: "Engage with 4D Wheat at the University of Saskatchewan"
 mathjax: "true"
 ---
 
-## Project Description
+## Description
 As a joint project between [GEMS Informatics Center](https://agroinformatics.org/) and 4D Wheat, the goal of this project is have GEMS personnel to engage with 4D Wheat principals at the University of Saskatchewan in support of the 4D Wheat project.
 
 ## Time Period

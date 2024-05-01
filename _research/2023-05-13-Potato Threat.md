@@ -6,7 +6,7 @@ excerpt: "Potato Pests and Diseases"
 mathjax: "true"
 ---
 
-## Project Description
+## Description
 As research project by [GEMS Informatics Center](https://agroinformatics.org/) to investigate the prevalant potato pests and diseases.
 
 ## Time Period

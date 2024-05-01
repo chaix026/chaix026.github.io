@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: single
 permalink: /research/
 title: "Research"
 author_profile: true
@@ -31,3 +31,7 @@ entries_layout: grid
 [Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en)  
 
 <h2 style="color:grey">Research projects</h2>
+
+{% for research in site.research %}
+ <span>{{ research.description }}</span>
+{% endfor %}
