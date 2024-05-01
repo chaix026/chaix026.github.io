@@ -6,7 +6,7 @@ mathjax: "true"
 author_profile: true
 ---
 
-## Description
+## Project Description
 Our project, 'Linking Soybean Aphid Losses to Technology Investment Decisions,' is breaking new ground by developing a flexible, evidence-based framework for estimating crop losses that account for the dynamic nature of pest risks. Through interdisciplinary collaboration, we're forging a path to innovative solutions in agriculture.
 
 ## Time Period

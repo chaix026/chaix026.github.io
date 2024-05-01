@@ -7,7 +7,7 @@ mathjax: "true"
 author_profile: true
 ---
 
-## Description
+## Project Description
 As research project by [GEMS Informatics Center](https://agroinformatics.org/) to investigate the prevalant potato pests and diseases.
 
 ## Time Period
