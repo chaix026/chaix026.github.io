@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Potato Threat Intelligence"
 date: 2023-05-01
 tags: [crop pests, agricultural productivity]

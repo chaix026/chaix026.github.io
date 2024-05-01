@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Canada Wheat Data Analytics"
 date: 2021-07-01
 tags: [crop diversity, agricultural productivity]

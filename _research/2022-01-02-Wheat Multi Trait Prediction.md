@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Wheat Multi-Trait Predictions: A Quantitative, Genotype x Environment (GxE) Approach to Supporting Minnesota Wheat Breeding and Farmer Varietal Selections"
 date: 2022-01-01
 tags: [wheat, agriculture, analytics, bio-economic modeling]

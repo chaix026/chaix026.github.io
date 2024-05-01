@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Linking Soybean Aphid Losses to Technology Investment Decisions"
 categories: 
     - projects
@@ -12,6 +13,7 @@ header:
   caption: "Soybean Aphids"
 excerpt: "Developing a spatially explicit bio-economic dispersal model to aid with the management of soybean aphids"
 mathjax: "true"
+
 ---
 
 ## Description

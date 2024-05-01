@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Canada Wheat Data Analytics, Phase II"
 date: 2023-10-01
 tags: [crop diversity, agricultural productivity]
