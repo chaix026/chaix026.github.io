@@ -7,5 +7,5 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-
+![Data Science](/assets/images/portfolio/Slide1.JPG)
 
