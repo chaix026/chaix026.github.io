@@ -17,6 +17,23 @@ Contains basic configuration to get you a site with:
 Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
+## Modifications
+
+**Navigation**  
+Modify the "_data/navigation.yml" to change the navigation header
+
+**Posts**
+Each Coding projects was created as a post under "_posts" with some basic information.  
+All posts are organized and presented as "tag" view using the "_pages/portfolio.md" page  
+
+**Collections**
+Research projects are organized as collections in the "_research" directory. 
+All research projects are presented using the "_pages/research.md" page
+
+**About**
+About page is also the home page using the "index.md"
+
+---
 
 ## Troubleshooting
 
