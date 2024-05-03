@@ -4,7 +4,6 @@ author_profile: true
 permalink: /
 title: ""
 ---
-
 ## About Me
 Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, risk management, food and agricultural production modeling, and R&D impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 {: .notice}
@@ -27,9 +26,9 @@ Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/s
 {: .notice}
 
 ### Education:  
-- **PhD** in Applied Economics, University of Minnesota (2018) (GPA 4.0/4.0)
-- **MS** in Plant Pathology, University of Minnesota (2011) (GPA 3.96/4.0)
-- **BS** in Biological Sciences, Tsinghua University, Beijing, China (2008) (GPA 87.82/100)
+**PhD** in Applied Economics, University of Minnesota (2018) (GPA 4.0/4.0)  
+**MS** in Plant Pathology, University of Minnesota (2011) (GPA 3.96/4.0)  
+**BS** in Biological Sciences, Tsinghua University, Beijing, China (2008) (GPA 87.82/100)  
 {: .notice}
 
 ### Languages:  
