@@ -13,8 +13,8 @@ tags:
 ## Volleyball players' stats analysis  
 In this fun project, I scraped data from volleyservice.ru website for top players and compared their stats to see how my favorite player Zhang compares to other players as an outside hitter. 
 
-## Data query
-- Query: I used the BeautifulSoup library to query the player stats website to get their player stats. 
+## Data collection
+- Query: I used the `BeautifulSoup` library to query the player stats website to get their player stats. 
 - Translate: Since the data are in Russian, I then used Google Translator api to translate them into English for further analysis
 - Save: I saved the cleaned data for further analysis and visualization
 
