@@ -16,10 +16,10 @@ R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX
 [Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
 
 ### Data Science Certifications:
-- The Structured Query Language (SQL) [Coursera Certificate](https://coursera.org/share/1d078f4e6c393c51c3cf54a2ba646565){: .btn .btn--small}
-- Introduction to Data Science in Python [Coursera Certificate](https://coursera.org/share/48e23cb51c877f67919c0f8da380ed97){: .btn .btn--small}
-- Applied Plotting, Charting & Data Representation in Python [Coursera Certificate](https://coursera.org/share/3458510d7cc892eb6a328ab992c9c4d1){: .btn .btn--small}
-- Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/share/8b68e31f7a35a9ca4dc2e29b205a0841){: .btn .btn--small}  
+The Structured Query Language (SQL) [Coursera Certificate](https://coursera.org/share/1d078f4e6c393c51c3cf54a2ba646565){: .btn .btn--small}  
+Introduction to Data Science in Python [Coursera Certificate](https://coursera.org/share/48e23cb51c877f67919c0f8da380ed97){: .btn .btn--small}  
+Applied Plotting, Charting & Data Representation in Python [Coursera Certificate](https://coursera.org/share/3458510d7cc892eb6a328ab992c9c4d1){: .btn .btn--small}  
+Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/share/8b68e31f7a35a9ca4dc2e29b205a0841){: .btn .btn--small}  
 {: .notice}
 
 ### Publications:  
