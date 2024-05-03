@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Cases Track"
+title: "R Shiny App: COVID-19 Cases Track"
 excerpt: "R Shiny app for visulization of global COVID-19 cases"
 categories:
   - portfolio
