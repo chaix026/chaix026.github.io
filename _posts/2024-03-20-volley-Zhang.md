@@ -5,7 +5,7 @@ categories:
   - portfolio
 tags:
   - data science
-  - Python
+  - python
 
 ---
 ![volley-stats](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27An_e6dBdQI1LuwWrlgIgZZtFl5FBEtH_Ew-PuVWVw&s) 
