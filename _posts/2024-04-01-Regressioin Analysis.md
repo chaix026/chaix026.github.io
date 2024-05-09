@@ -4,8 +4,8 @@ excerpt: "Modeling the relationship between a dependent variable and one or more
 categories:
   - portfolio
 tags:
-  - python
   - data science
+  - python
   - machine learning
 ---
 ![Regression Analysis](/assets/images/portfolio/Slide4.JPG)  

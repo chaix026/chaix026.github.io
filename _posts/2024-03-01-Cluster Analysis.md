@@ -4,8 +4,8 @@ excerpt: "Using machine learning to group similar data points into clusters."
 categories:
   - portfolio
 tags:
-  - python
   - data science
+  - python
   - machine learning
 ---
 ![Cluster Analysis](/assets/images/portfolio/Slide3.JPG)  
