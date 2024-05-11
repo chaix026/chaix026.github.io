@@ -8,7 +8,13 @@ title: ""
 Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 {: .notice}
 
-### Data Science Skills:
+### Skills:
+**Economic Modeling:** production functions; demand estimation; risk modeling; benefit and cost analysis  
+**Causal Inference:** randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control    
+**Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
+**Machine Learning:** supervised and unsuperivsed models  
+
+### Coding:
 R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
 {: .notice}
 
