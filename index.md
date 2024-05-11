@@ -13,6 +13,7 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 **Causal Inference:** randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control    
 **Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
 **Machine Learning:** supervised and unsuperivsed models  
+{: .notice}
 
 ### Coding:
 R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
@@ -49,7 +50,7 @@ Freshman scholarship, Tsinghua University, Beijing 2004
 {: .notice}
 
 ### Languages:  
-Mandarin Chinese (native); English (fluent)
+Mandarin Chinese (native); English (fluent); Spanish (beginner)
 {: .notice}
 
 ### Interests & Hobbies:  
