@@ -7,14 +7,22 @@ title: ""
 ## About Me
 Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 
-### Skills:  
+### Education:  
+
+|:------------------------------------------------------------------|:-----------:|------:|  
+|**PhD** in Applied Economics, University of Minnesota              |GPA 4.0/4.0  | 2018  |    
+|**MS** in Plant Pathology, University of Minnesota                 |GPA 3.96/4.0 | 2011  |  
+|**BS** in Biological Sciences, Tsinghua University, Beijing, China |GPA 87.82/100| 2008  |  
+
+
+### Modeling Skills:  
 
 |**Economic Modeling:**| production functions; demand estimation; risk modeling; benefit and cost analysis  |  
 |**Causal Inference:** | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
 |**Spatial Analysis:** | spatial data analytics and visualizations; spatial regression  
 |**Machine Learning:** | supervised and unsuperivsed models  
 
-### Coding:  
+### Coding Skills:  
 
 | **Python**    | NumPy, Pandas, SciPy, statsmodels, scikit-learn, Matplotlib, Seaborn, TensorFlow, EconML |  
 | **R**         | tidyverse, data.table, ggplot2, plotly, dplyr, tidyr, stringr, caret, randomForest, raster, terra, sf, shiny |  
@@ -33,12 +41,6 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 ### Publications:  
 [>> Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
 
-### Education:  
-
-|:------------------------------------------------------------------|:-----------:|------:|  
-|**PhD** in Applied Economics, University of Minnesota              |GPA 4.0/4.0  | 2018  |    
-|**MS** in Plant Pathology, University of Minnesota                 |GPA 3.96/4.0 | 2011  |  
-|**BS** in Biological Sciences, Tsinghua University, Beijing, China |GPA 87.82/100| 2008  |  
 
 ### Awards:  
 
@@ -59,4 +61,5 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 |Spanish |(beginner)|
 
 ### Interests & Hobbies:  
+
 | Traveling | Reading | Hiking | Skiing | Crafting |  
