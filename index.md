@@ -5,19 +5,18 @@ permalink: /
 title: ""
 ---
 ## About Me
-Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
-{: .notice}
+> Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 
 ### Skills:
-**Economic Modeling:** production functions; demand estimation; risk modeling; benefit and cost analysis  
-**Causal Inference:** randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control    
-**Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
-**Machine Learning:** supervised and unsuperivsed models  
-{: .notice}
+* **Economic Modeling:** production functions; demand estimation; risk modeling; benefit and cost analysis  
+* **Causal Inference:** randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control    
+* **Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
+* **Machine Learning:** supervised and unsuperivsed models  
 
 ### Coding:
-R; Python; SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  
-{: .notice}
+| **Python**    | NumPy, Pandas         |
+| **R**         | tidyverse, data.table |
+| **Others**    | SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  |
 
 [Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
 
@@ -26,7 +25,7 @@ The Structured Query Language (SQL) [Coursera Certificate](https://coursera.org/
 Introduction to Data Science in Python [Coursera Certificate](https://coursera.org/share/48e23cb51c877f67919c0f8da380ed97){: .btn .btn--small}  
 Applied Plotting, Charting & Data Representation in Python [Coursera Certificate](https://coursera.org/share/3458510d7cc892eb6a328ab992c9c4d1){: .btn .btn--small}  
 Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/share/8b68e31f7a35a9ca4dc2e29b205a0841){: .btn .btn--small}  
-{: .notice}
+
 
 ### Publications:  
 [>> Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
