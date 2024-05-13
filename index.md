@@ -5,13 +5,14 @@ permalink: /
 title: ""
 ---
 ## About Me
-> Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
+Ph.D. in applied economics with 6+ years of teaching and research experience in data analysis, economic modeling, risk management, food and agricultural production, and technology impact assessment. I am a highly motivated and versatile data scientist with a unique interdisciplinary background. I am proficient in using, and taught, R (10+ years) and Python (4+ years) for economic and statistical modeling, in-depth data analysis, and innovative data visualization. I am a motivated self-learner with strong interests in applying big data and machine learning techniques to address multifaceted challenges.
 
-### Skills:
-* **Economic Modeling:** production functions; demand estimation; risk modeling; benefit and cost analysis  
-* **Causal Inference:** randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control    
-* **Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
-* **Machine Learning:** supervised and unsuperivsed models  
+### Skills:  
+
+| **Economic Modeling:** | production functions; demand estimation; risk modeling; benefit and cost analysis  |  
+| **Causal Inference:**  | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
+| **Spatial Analysis:**  | spatial data analytics and visualizations; spatial regression  
+| **Machine Learning:**  | supervised and unsuperivsed models  
 
 ### Coding:  
 
@@ -38,21 +39,23 @@ Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/s
 |**MS** in Plant Pathology, University of Minnesota                 |GPA 3.96/4.0 | 2011  |  
 |**BS** in Biological Sciences, Tsinghua University, Beijing, China |GPA 87.82/100| 2008  |  
 
-### Awards:
-Minnesota Supercomputing Institute Research Exhibition Finalist Award, University of Minnesota 2020  
-Doctoral Dissertation Fellowship, University of Minnesota 2016-2017  
-Hueg Harrison Fellowship, CFANS, University of Minnesota 2014  
-HarvestChoice Research assistantship, University of Minnesota 2012-2015  
-MN Agricultural Experiment Station (MAES) Research Assistant 2008-2010  
-Winner of Competitive Graduate Student Symposium at Borlaug Global Rust Initiative (BGRI) Technical Workshop, St. Paul, MN 2011  
-Scholarship in recognition of Academic Excellence, Tsinghua University, Beijing 2006  
-Freshman scholarship, Tsinghua University, Beijing 2004  
-{: .notice}
+### Awards:  
 
-### Languages:  
-Mandarin Chinese (native); English (fluent); Spanish (beginner)
-{: .notice}
+|Minnesota Supercomputing Institute Research Exhibition Finalist Award, University of Minnesota |2020|    
+|Doctoral Dissertation Fellowship, University of Minnesota |2016-2017|  
+|Hueg Harrison Fellowship, CFANS, University of Minnesota |2014|  
+|HarvestChoice Research assistantship, University of Minnesota |2012-2015|  
+|MN Agricultural Experiment Station (MAES) Research Assistant |2008-2010|  
+|Winner of Competitive Graduate Student Symposium at Borlaug Global Rust Initiative (BGRI) Technical Workshop, St. Paul, MN |2011|  
+|Scholarship in recognition of Academic Excellence, Tsinghua University, Beijing |2006|  
+|Freshman scholarship, Tsinghua University, Beijing |2004|  
+
+
+### Languages:   
+
+|Mandarin Chinese| (native) |
+|English |(fluent)|
+|Spanish |(beginner)|
 
 ### Interests & Hobbies:  
 Traveling; Hiking; Skiing; Reading; Crafting
-{: .notice}
