@@ -9,24 +9,25 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 
 ### Skills:  
 
-| **Economic Modeling:** | production functions; demand estimation; risk modeling; benefit and cost analysis  |  
-| **Causal Inference:**  | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
-| **Spatial Analysis:**  | spatial data analytics and visualizations; spatial regression  
-| **Machine Learning:**  | supervised and unsuperivsed models  
+|**Economic Modeling:**| production functions; demand estimation; risk modeling; benefit and cost analysis  |  
+|**Causal Inference:** | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
+|**Spatial Analysis:** | spatial data analytics and visualizations; spatial regression  
+|**Machine Learning:** | supervised and unsuperivsed models  
 
 ### Coding:  
 
-| **Python**    | NumPy, Pandas         |  
-| **R**         | tidyverse, data.table |  
+| **Python**    | NumPy, Pandas, SciPy, statsmodels, scikit-learn, Matplotlib, Seaborn, TensorFlow, EconML |  
+| **R**         | tidyverse, data.table, ggplot2, plotly, dplyr, tidyr, stringr, caret, randomForest, raster, terra, sf, shiny |  
 | **Others**    | SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  |
 
 [Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
 
-### Data Science Certifications:
-The Structured Query Language (SQL) [Coursera Certificate](https://coursera.org/share/1d078f4e6c393c51c3cf54a2ba646565){: .btn .btn--small}  
-Introduction to Data Science in Python [Coursera Certificate](https://coursera.org/share/48e23cb51c877f67919c0f8da380ed97){: .btn .btn--small}  
-Applied Plotting, Charting & Data Representation in Python [Coursera Certificate](https://coursera.org/share/3458510d7cc892eb6a328ab992c9c4d1){: .btn .btn--small}  
-Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/share/8b68e31f7a35a9ca4dc2e29b205a0841){: .btn .btn--small}  
+### Data Science Certifications:  
+
+|The Structured Query Language (SQL) |[Coursera Certificate](https://coursera.org/share/1d078f4e6c393c51c3cf54a2ba646565){: .btn .btn--small}|  
+|Introduction to Data Science in Python|[Coursera Certificate](https://coursera.org/share/48e23cb51c877f67919c0f8da380ed97){: .btn .btn--small}|  
+|Applied Plotting, Charting & Data Representation in Python |[Coursera Certificate](https://coursera.org/share/3458510d7cc892eb6a328ab992c9c4d1){: .btn .btn--small}|  
+|Applied Machine Learning in Python |[Coursera Certificate](https://coursera.org/share/8b68e31f7a35a9ca4dc2e29b205a0841){: .btn .btn--small}|  
 
 
 ### Publications:  
@@ -58,4 +59,4 @@ Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/s
 |Spanish |(beginner)|
 
 ### Interests & Hobbies:  
-Traveling; Hiking; Skiing; Reading; Crafting
+| Traveling | Reading | Hiking | Skiing | Crafting |  
