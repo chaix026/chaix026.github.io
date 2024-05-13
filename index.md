@@ -17,6 +17,7 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 
 ### Modeling Skills:  
 
+|:---------------------|:------------------------------------------------------------------:|  
 |**Economic Modeling:**| production functions; demand estimation; risk modeling; benefit and cost analysis  |  
 |**Causal Inference:** | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
 |**Spatial Analysis:** | spatial data analytics and visualizations; spatial regression  
@@ -56,9 +57,9 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 
 ### Languages:   
 
-|Mandarin Chinese| (native) |
-|English |(fluent)|
-|Spanish |(beginner)|
+|Mandarin Chinese| *native* |
+|English |*fluent*|
+|Spanish |*beginner*|
 
 ### Interests & Hobbies:  
 
