@@ -14,8 +14,18 @@ title: ""
 * **Machine Learning:** supervised and unsuperivsed models  
 
 ### Coding:
-| **Python**    | NumPy, Pandas         |
-| **R**         | tidyverse, data.table |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
+
+| **Python**    | NumPy, Pandas         |  
+| **R**         | tidyverse, data.table |  
 | **Others**    | SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  |
 
 [Data Science Portfolio](/portfolio/){: .btn .btn--success .btn--samll}
@@ -29,13 +39,11 @@ Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/s
 
 ### Publications:  
 [>> Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
-{: .notice}
 
 ### Education:  
-**PhD** in Applied Economics, University of Minnesota (2018) (GPA 4.0/4.0)  
+|**PhD** in Applied Economics, University of Minnesota | GPA 4.0/4.0 | 2018 |  
 **MS** in Plant Pathology, University of Minnesota (2011) (GPA 3.96/4.0)  
 **BS** in Biological Sciences, Tsinghua University, Beijing, China (2008) (GPA 87.82/100)  
-{: .notice}
 
 ### Awards:
 Minnesota Supercomputing Institute Research Exhibition Finalist Award, University of Minnesota 2020  
