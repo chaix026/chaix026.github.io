@@ -13,7 +13,8 @@ title: ""
 * **Spatial Analysis:** spatial data analytics and visualizations; spatial regression  
 * **Machine Learning:** supervised and unsuperivsed models  
 
-### Coding:
+### Coding:  
+
 | **Python**    | NumPy, Pandas         |  
 | **R**         | tidyverse, data.table |  
 | **Others**    | SQL; Git; Supercomputing; MATLAB; STATA; QGIS; ArcGIS; DSSAT; CLIMEX  |
@@ -31,6 +32,7 @@ Applied Machine Learning in Python [Coursera Certificate](https://coursera.org/s
 [>> Google Scholar](https://scholar.google.com/citations?user=xbBwIeoAAAAJ&hl=en&oi=ao)
 
 ### Education:  
+
 |:------------------------------------------------------------------|:-----------:|------:|  
 |**PhD** in Applied Economics, University of Minnesota              |GPA 4.0/4.0  | 2018  |    
 |**MS** in Plant Pathology, University of Minnesota                 |GPA 3.96/4.0 | 2011  |  
