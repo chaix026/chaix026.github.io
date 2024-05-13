@@ -57,9 +57,9 @@ Ph.D. in applied economics with 6+ years of teaching and research experience in 
 
 ### Languages:   
 
-|Mandarin Chinese| *native* |
-|English |*fluent*|
-|Spanish |*beginner*|
+|Mandarin Chinese| *(native)* |
+|English |*(fluent)*|
+|Spanish |*(beginner)*|
 
 ### Interests & Hobbies:  
 
