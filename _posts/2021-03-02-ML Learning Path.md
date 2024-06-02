@@ -1,5 +1,5 @@
 ---
-title: "Hands-on Machine Learning Log"
+title: "Hands-on Machine Learning Roadmap"
 excerpt: "A learning log for learning the key concepts of ML"
 categories:
   - portfolio
@@ -8,7 +8,6 @@ tags:
   - python
   - machine learning
 ---
-# Hands-on Machine Learning
 ### What is Machine Learning?
 Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data. Unlike traditional programming, where explicit instructions are given to perform a task, machine learning algorithms use patterns and inference to improve their performance on a given task.
 
@@ -20,11 +19,9 @@ Machine learning methods can be broadly categorized into several types based on 
 **Description**: Supervised learning involves training a model on a labeled dataset, which means that each training example is paired with an output label. The model learns to map inputs to outputs.
 
 **Common Algorithms**:
-- **Linear Regression**: Used for predicting continuous values.  
+- [**Linear Regression**]({% post_url 2024-04-01-Regression-Analysis %}): Used for predicting continuous values.  
 - **Logistic Regression**: Used for binary classification problems.  
-See [post]({% post_url 2024-04-01-Regression-Analysis %}) for some example codes.
-
-- **Support Vector Machines (SVM)**: Can be used for both classification and regression.
+- [**Support Vector Machines (SVM)**]({% post_url 2024-06-02-SVM %}): Can be used for both classification and regression.
 - **Decision Trees**: Used for both classification and regression tasks.
 - **Random Forests**: An ensemble method that combines multiple decision trees.
 - **K-Nearest Neighbors (KNN)**: A non-parametric method used for classification and regression.
