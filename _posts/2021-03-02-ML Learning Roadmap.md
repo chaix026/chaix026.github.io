@@ -33,7 +33,7 @@ Machine learning methods can be broadly categorized into several types based on 
 **Description**: Unsupervised learning involves training a model on data that does not have labeled responses. The goal is to infer the natural structure present within a set of data points.
 
 **Common Algorithms**:
-- **K-Means Clustering**: Partitions data into k clusters.
+- [**K-Means Clustering**]({% post_url 2024-03-01-Cluster-Analysis %}): Partitions data into k clusters.
 - **Hierarchical Clustering**: Builds a hierarchy of clusters.
 - **Principal Component Analysis (PCA)**: Reduces the dimensionality of data while preserving variance.
 - **Independent Component Analysis (ICA)**: A computational method for separating a multivariate signal into additive, independent components.
