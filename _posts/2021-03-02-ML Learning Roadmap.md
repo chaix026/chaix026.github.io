@@ -24,7 +24,7 @@ Machine learning methods can be broadly categorized into several types based on 
 - [**Support Vector Machines (SVM)**]({% post_url 2024-06-02-SVM %}): Can be used for both classification and regression.
 - **Decision Trees**: Used for both classification and regression tasks.
 - **Random Forests**: An ensemble method that combines multiple decision trees.
-- **K-Nearest Neighbors (KNN)**: A non-parametric method used for classification and regression.
+- [**K-Nearest Neighbors (KNN)**]({% post_url 2024-06-02-KNN %}): A non-parametric method used for classification and regression.
 - **Gradient Boosting Machines (GBM)**: An ensemble technique that builds models sequentially.
 - **Neural Networks**: Models inspired by the human brain, used for complex tasks like image and speech recognition.
 
