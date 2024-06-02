@@ -22,7 +22,7 @@ Machine learning methods can be broadly categorized into several types based on 
 **Common Algorithms**:
 - **Linear Regression**: Used for predicting continuous values.  
 - **Logistic Regression**: Used for binary classification problems.  
-See [post]({% _posts/2024-04-01-Regression Analysis.md %}) for some example codes.
+See [post]({% post_url 2024-04-01-Regression-Analysis %}) for some example codes.
 
 - **Support Vector Machines (SVM)**: Can be used for both classification and regression.
 - **Decision Trees**: Used for both classification and regression tasks.
