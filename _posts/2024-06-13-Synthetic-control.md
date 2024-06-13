@@ -99,6 +99,6 @@ The synthetic control method is a powerful tool for causal inference in observat
 2. **Sensitivity**: Results can be sensitive to the choice of donor pool and the method used to construct the synthetic control.
 3. **Data Requirements**: Requires rich data on pre-treatment characteristics and outcomes to construct a reliable synthetic control.
 
-[Python Example: California Tobacco Tax and Health Protection Act](https://github.com/chaix026/Causal-Inference){: .btn .btn--success .btn--large}  
+[Python Example](https://github.com/chaix026/Causal-Inference/blob/main/Synthetic%20Control.ipynb){: .btn .btn--success .btn--large}  
 
 
