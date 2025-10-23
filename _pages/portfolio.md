@@ -7,7 +7,7 @@ author_profile: true
 #   image: "/images/fort point.png"
 ---
 
-![Data Science](/assets/images/portfolio/Slide1.JPG)
+**Skills**
 
 **Causal Inference & Experimentation**  
 -	Geo-filtered, customer-level A/B test  
@@ -19,3 +19,7 @@ author_profile: true
 -	Additive Marketing Mix Modeling (PyMC-Marketing; Meridian; Robyn) 
 -	Multiplicative Marketing Mix Modeling  
 -	Bayesian linear regression model  
+
+![Data Science](/assets/images/portfolio/Slide1.JPG)
+
+
