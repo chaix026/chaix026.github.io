@@ -10,7 +10,7 @@ author_profile: true
 **Skills**
 
 **Causal Inference & Experimentation**  
--	Geo-filtered, customer-level A/B test  
+-	A/B test (geo-level, customer-level)
 -	Synthetic Control method  
 -	Difference-in-Difference (DiD) method   
 -	Time-Based Regression Matched Markets (TBR-MM)   
