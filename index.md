@@ -19,7 +19,7 @@ Ph.D. in applied economics with 6+ years of research and industry experience in 
 
 |:---------------------|:------------------------------------------------------------------:|  
 |**Economic Modeling:**| production functions; demand estimation; benefit and cost analysis; risk modeling; dynamic optimization  |  
-|**Causal Inference:** | randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control  |    
+|**Causal Inference:** | Marketing Mix Modeling (MMM); geo experiments; randomized control trials (RCT); A/B Testing; matching; instrument variables (IV); difference-in-difference (DiD); synthetic control method (SCM); time-based regression (TBR); Bayesian structural time-series model (CausalImpact)   |    
 |**Spatial Analysis:** | spatial data analytics and visualizations; spatial regression  
 |**Machine Learning:** | supervised and unsuperivsed models  
 
